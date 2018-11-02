@@ -1,0 +1,3 @@
+Material type: Birch Plywood
+Material dimensions: 12 in x 8 in x 0.5 in
+Bit: 0.125 in, Straight cut
