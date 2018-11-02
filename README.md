@@ -1,3 +1,3 @@
 # Motor Gear Upgrade
 
-Made with higher grade materials than the original motors.  Direct from the motor manufacturer.
+Made with higher grade materials than original motors.  Direct from manufacturer.
